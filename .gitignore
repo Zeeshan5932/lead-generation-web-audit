@@ -1,0 +1,11 @@
+.env
+credentials/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/logs/*
+.idea/
+.vscode/
+*.log
+venv/
+env/
